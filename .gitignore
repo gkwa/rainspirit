@@ -1,0 +1,3 @@
+dist/
+.terraform.lock.hcl
+python/hello-world.zip
